@@ -1,16 +1,4 @@
-# vok
+# Tugas 2 Mobpro
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile Screen](https://user-images.githubusercontent.com/126648243/232962284-9b6d6f2a-98fa-4ebc-b5e0-574937fdd775.jpeg)
+![Profile_body_screen](https://user-images.githubusercontent.com/126648243/232962260-b3cbdf35-7fb3-46e3-9bd7-5072bb1a572b.png)
